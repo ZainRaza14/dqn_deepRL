@@ -16,4 +16,4 @@ I have read and used the following resources while completing this project:
 8. https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4
 9. Book - Sutton R. and Barto A. — Reinforcement Learning: An Introduction, MIT Press, 1998
 
-**Note - The most I have learned about the RL is from David Silver Lectures. That guy is awesome !
+
